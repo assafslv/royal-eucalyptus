@@ -7,7 +7,7 @@ sections:
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
     actions:
-      - label: Changing this
+      - label: Changing this again
         url: /contact
         style: primary
     image: images/hero.png
